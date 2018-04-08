@@ -144,5 +144,10 @@ namespace 排版工具新
         {
 
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
